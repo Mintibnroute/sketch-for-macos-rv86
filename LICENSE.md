@@ -1,4 +1,4 @@
-# 
+# Enhance Sketch for macOS with Sketch for macOS smart Extension: gradient maps & content-aware fill, the #1 extension. Includes gradient maps and content-aware fill for a smoother
 
 
 
